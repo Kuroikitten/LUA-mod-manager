@@ -2,7 +2,7 @@
 
 A simple, cross-platform mod manager for games that use Lua mods.
 
-> ⚠️ **Vibe-coded.** This tool was built with AI assistance in a single session. It works, but don't expect enterprise-grade error handling. Use at your own risk, and maybe keep backups of your mods folder.
+> ⚠️ **Vibe-coded.** This tool was built with AI assistance in a single session.
 
 ---
 
